@@ -57,6 +57,7 @@ I'm always open to meaningful conversations, collaborations, and knowledge-shari
 ## 🎯 Let's Build the Future Together:
 If you're looking for a dedicated developer, cybersecurity collaborator, or just someone to brainstorm the next big idea, I'm here! 🤝 Let's connect, innovate, and make a difference in the tech world.  
 
-[![](https://visitcount.itsvg.in/api?id=Mwantech&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Mwantech&style=flat-square&color=6A5ACD)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

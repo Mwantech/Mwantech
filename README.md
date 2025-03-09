@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Universe! 🌟
 
 ## 👨‍💻 About Me:
-Hi there! I'm **Joshua Mwangi**, a passionate **Software Developer** and **Cybersecurity Enthusiast** with a knack for crafting innovative solutions and building secure, scalable systems. Technology is more than a career for me—it's a playground where I constantly learn, experiment, and push boundaries. 🚀  
+Hi there! I'm **Joshua Mwangi👨‍💻**, a passionate **Software Developer** and **Cybersecurity Enthusiast** with a knack for crafting innovative solutions and building secure, scalable systems. Technology is more than a career for me—it's a playground where I constantly learn, experiment, and push boundaries. 🚀  
 
 ### ✨ What Drives Me:
 - **Problem-Solving:** I thrive on challenges and love turning complex problems into elegant solutions.
